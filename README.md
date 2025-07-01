@@ -1,7 +1,12 @@
 ## Hi there 👋
+
+# I build code and do other things 😁
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+😄 Pronouns: ... are short words like 'it', 'she', 'he', 'you', 'we', 'they', 'us' and 'them'.
 <!--
 **Dermot-GAA/Dermot-GAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
